@@ -1,0 +1,27 @@
+{
+  "name": "find-babysitter",
+  "version": "1.0.0",
+  "description": "\"# find-babysitter\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ron2man/find-babysitter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ron2man/find-babysitter/issues"
+  },
+  "homepage": "https://github.com/ron2man/find-babysitter#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.5.0",
+    "@vue/cli-plugin-pwa": "^3.1.2",
+    "axios": "^0.18.0",
+    "element-ui": "^2.4.11",
+    "moment": "^2.22.2",
+    "vue-tabs-component": "^1.5.0"
+  }
+}
